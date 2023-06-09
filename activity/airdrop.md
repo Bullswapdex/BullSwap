@@ -5,7 +5,7 @@
 100% of the airdrop allocation is for our Zealy community , how to participate ?
 
 * Creat a Zealy account&#x20;
-* Join our Zealy community：
+* Join our Zealy community：[https://zealy.io/c/bullswapbrc20community/invite/OVQ778-lfEsfWzseVXOIJ](https://zealy.io/c/bullswapbrc20community/invite/OVQ778-lfEsfWzseVXOIJ)
 * Link your twitter and your Bitcoin ordinals wallet
 * Complete quests and earn XP
 
