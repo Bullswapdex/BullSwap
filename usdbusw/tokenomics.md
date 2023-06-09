@@ -12,4 +12,4 @@ $BUSW is the governance token of the BullSwap ecosystem and is also the key to u
 
 ### Token distribution and allocation
 
-![5](../.gitbook/assets/微信图片\_20230608001856.jpg)
+![](../.gitbook/assets/微信图片\_20230608001856.jpg)
