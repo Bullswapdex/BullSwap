@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👀 Introduction](README.md)
+* [💁 Introduction](README.md)
   * [BRC20](b.md)
   * [BullSwap](BullSwap.md)
   * [Why?](why.md)
