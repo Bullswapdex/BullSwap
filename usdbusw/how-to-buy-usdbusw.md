@@ -8,6 +8,6 @@
 
 ◆open https://bullswap.biz,
 
-◆connect your Unisat OKX wallet, after the sale starts, enter within the limit BTC amount and confirm transaction!
+◆connect your Unisat  wallet, after the sale starts, enter within the limit BTC amount and confirm transaction!
 
 ◆done！
