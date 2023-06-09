@@ -1,5 +1,4 @@
-   #     Tokenomics
-
+# Tokenomics
 
 $BUSW is the governance token of the BullSwap ecosystem and is also the key to unlock the entire future ecosystem of BullSwap. The following describes some uses of $BUSW and the benefits of holding it, but not limited to:
 
@@ -11,7 +10,6 @@ $BUSW is the governance token of the BullSwap ecosystem and is also the key to u
 
 ◆Others: $BUSW tokens can be used in the BullSwap ecosystem, such as payment of transaction fees, transaction fee discounts based on holdings, lFO function qualifications, NFT airdrops based on ranking holdings, test experience qualifications for new functions, and more pending upgrade.
 
+### Token distribution and allocation
 
-   ### Token distribution and allocation
-
-   ![5](https://pbs.twimg.com/media/Fxz0zZMagAAVSLW?format=jpg&name=medium)
+![5](.gitbook/assets/微信图片\_20230608001856.jpg)
