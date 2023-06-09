@@ -17,14 +17,8 @@
 * [🎪 Activity](activity/README.md)
   * [🪂 Airdrop](activity/airdrop.md)
   * [🌠 NFT](activity/nft.md)
-* [🖇 Official Details](official-details.md)
 
 ## 🏢 Official Details
 
-* [🔗 Links](official-details-1/links.md)
-* [🚀 Cooperation and Contact](official-details-1/cooperation-and-contact.md)
-
-***
-
-* [🔗 Links](lian.md)
-* [🚀 Cooperation and Contact](he.md)
+* [🔗 Links](official-details/links.md)
+* [🚀 Cooperation and Contact](official-details/cooperation-and-contact.md)
