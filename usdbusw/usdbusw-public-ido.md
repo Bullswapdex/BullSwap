@@ -24,7 +24,7 @@ Method: In the way of exceeding the total amount, it will be divided evenly acco
 
 Minimum buy: 0.01 BTC
 
-Wallet: Unisat OKX
+Wallet: Unisat&#x20;
 
 Sale URL: https://bullswap.biz
 
