@@ -1,6 +1,6 @@
 # Solution
 
-BullSwap has created BRC20's native DEX, and is the first aggregator in the BRC20 ecosystem that combines order book and AMM functions, providing users with a complete solution for the most convenient trading experieLiquidy providers create markets by depositing two tokens of equal value Token combinations can include Bitcoin with one BRC-20 token or two BRC-20 tokens The funds in these pools are usually BTC but this is not mandatory In return, liquidity providers receive “liquidity tokens” that represent their share of the overall liquidity pool. These liquidity tokens can be exchanged for their share in the pool.
+BullSwap has built BRC20's native DEX, which is the first aggregator in the BRC20 ecosystem that combines order books and AMM functions, providing users with the most convenient trading experience and complete solutions. Liquidity providers deposit two equivalent Tokens create a market token portfolio, which can include Bitcoin with one BRC-20 token or two BRC-20 tokens, the funds in these pools are usually BTC, but this is not mandatory In return, liquidity Providers receive "liquidity tokens" that represent their share of the entire liquidity pool. These liquidity tokens can be exchanged for their share in the pool.
 
 The BullSwap Workflow & Architect is as below:
 
