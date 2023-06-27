@@ -6,7 +6,15 @@ The BullSwap Workflow & Architect is as below:
 
 ### Add Liquidity
 
-![](https://pbs.twimg.com/media/FxUYW6NaQAAryOm?format=jpg\&name=large)
+<div>
+
+<img src="https://pbs.twimg.com/media/FxUYW6NaQAAryOm?format=jpg&#x26;name=large" alt="">
+
+ 
+
+<figure><img src=".gitbook/assets/BISO-1.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Perform Token Swap
 
