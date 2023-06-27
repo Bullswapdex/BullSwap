@@ -1,6 +1,16 @@
 # 🚀 Cooperation and Contact
 
-![](https://pbs.twimg.com/media/Fx3irN2aYAMR\_b0?format=jpg\&name=medium)
+
+
+<div data-full-width="true">
+
+<img src="https://pbs.twimg.com/media/Fx3irN2aYAMR_b0?format=jpg&#x26;name=medium" alt="">
+
+ 
+
+<figure><img src="../.gitbook/assets/微信图片_20230628013243.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### What projects are we interested in starting?
 
