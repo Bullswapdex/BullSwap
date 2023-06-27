@@ -2,38 +2,36 @@
 
 ### $BUSW sale info
 
-Total supply: 275,000,000
+Total supply: 275,000,000&#x20;
 
-20% Whitelist: 55,000,000
+20% First round: 55,000,000&#x20;
 
-Unit price: 0.000000052BTC
+Unit price: 0.000000052BTC&#x20;
 
-Participation quota: 0.01-0.05BTC
+Participation quota: 0.01-0.1BTC&#x20;
 
-Eligibility: Influential KOL, community leaders, bloggers, and community building contributors submit a whitelist application form and pass the review.
+Eligibility: Public&#x20;
 
-80% IDO: 220,000,000
+80% Second round: 220,000,000
 
-Unit price: 0.000000065BTC
+&#x20;Unit price: 0.000000065BTC&#x20;
 
-Participation quota: 0.01-0.2BTC
+Participation quota: 0.01-0.2BTC&#x20;
 
-Eligibility: Public
+Eligibility: Public&#x20;
 
-Method: In the way of exceeding the total amount, it will be divided evenly according to the proportion of the amount. The excess amount will be refunded within 48 hours. Please note that there will be no $BUSW token share for the excess refund amount.
+Method: In the way of exceeding the total amount, it will be divided evenly according to the proportion of the amount. The excess amount will be refunded within 48 hours. Please note that there will be no $BUSW token share for the excess refund amount.&#x20;
 
-Minimum buy: 0.01 BTC
+Minimum buy: 0.01 BTC&#x20;
 
 Wallet: Unisat&#x20;
 
-Sale URL: https://bullswap.biz
+Sale URL: https://bullswap.biz&#x20;
 
-Release time cycle: Whitelist 24 hours, IDO 72 hours
+Sale start date: to be updated&#x20;
 
-Sale start date: to be updated
-
-Token distribution time: Tokens will be sent to the purchased wallet within 72 hours after the end of IDO.
+Token distribution time: Tokens will be sent to the purchased wallet within 72 hours after the end of IDO.&#x20;
 
 $BUSW Launch date: 72 hours after IDO ends
 
-Listing price: 0.00000007BTC/1 inscription token
+&#x20;Listing price: 0.00000007BTC/1 inscription token
