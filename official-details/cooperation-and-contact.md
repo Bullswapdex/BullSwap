@@ -2,13 +2,13 @@
 
 
 
-<div data-full-width="true">
+<div align="left" data-full-width="true">
 
 <img src="https://pbs.twimg.com/media/Fx3irN2aYAMR_b0?format=jpg&#x26;name=medium" alt="">
 
  
 
-<figure><img src="../.gitbook/assets/微信图片_20230628013243.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信图片_20230628013243.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

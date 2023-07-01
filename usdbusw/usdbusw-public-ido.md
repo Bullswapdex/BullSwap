@@ -6,15 +6,11 @@ Total supply: 275,000,000&#x20;
 
 20% First round: 55,000,000&#x20;
 
-Unit price: 0.000000052BTC&#x20;
-
 Participation quota: 0.01-0.1BTC&#x20;
 
 Eligibility: Public&#x20;
 
 80% Second round: 220,000,000
-
-&#x20;Unit price: 0.000000065BTC&#x20;
 
 Participation quota: 0.01-0.2BTC&#x20;
 
