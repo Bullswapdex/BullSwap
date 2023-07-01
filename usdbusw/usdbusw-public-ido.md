@@ -8,7 +8,7 @@ Total supply: 275,000,000&#x20;
 
 Unit price: 0.000000052BTC
 
-Participation quota: 0.01-0.1BTC&#x20;
+Participation quota: 0.01-0.2BTC&#x20;
 
 Eligibility: Public&#x20;
 
@@ -16,7 +16,7 @@ Eligibility: Public&#x20;
 
 Unit price: 0.000000065BTC
 
-Participation quota: 0.01-0.2BTC&#x20;
+Participation quota: 0.01-0.5BTC&#x20;
 
 Eligibility: Public&#x20;
 
