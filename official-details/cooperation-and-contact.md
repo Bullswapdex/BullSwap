@@ -8,7 +8,7 @@
 
  
 
-<figure><img src="../.gitbook/assets/微信图片_20230628013243.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信图片_20230628013243 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

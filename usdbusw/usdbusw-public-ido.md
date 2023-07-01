@@ -6,11 +6,15 @@ Total supply: 275,000,000&#x20;
 
 20% First round: 55,000,000&#x20;
 
+Unit price: 0.000000052BTC
+
 Participation quota: 0.01-0.1BTC&#x20;
 
 Eligibility: Public&#x20;
 
 80% Second round: 220,000,000
+
+Unit price: 0.000000065BTC
 
 Participation quota: 0.01-0.2BTC&#x20;
 
@@ -30,4 +34,4 @@ Token distribution time: Tokens will be sent to the purchased wallet within 72 h
 
 $BUSW Launch date: 72 hours after IDO ends
 
-&#x20;Listing price: 0.00000007BTC/1 inscription token
+&#x20;
